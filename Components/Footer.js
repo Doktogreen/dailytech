@@ -9,20 +9,20 @@ function Footer() {
       <div className="bg-indigo-600 dark:bg-indigo-900">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p className="text-gray-50 text-sm text-center sm:text-left">
-            © {year} Bits-Of-C0de —
+            © {year} Daily Tech
             <a
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/lorgarithm"
               rel="noopener noreferrer"
               className="text-gray-50 ml-1"
               target="_blank"
             >
-              @Soumyajit
+              @lorgarithm
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
             <a
               className="text-gray-50"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/lorgarithm"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -30,7 +30,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://github.com/soumyajit4419"
+              href="https://github.com/Doktogreen"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -38,7 +38,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+              href="https://www.instagram.com/lorgarithm/"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -46,7 +46,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/soumyajit4419/"
+              href="https://www.linkedin.com/in/raphael-ayomide-ajibodu-b08691186/"
               rel="noopener noreferrer"
               target="_blank"
             >

@@ -20,35 +20,35 @@ export default function Home({ blogs, topics }) {
   return (
     <>
       <Head>
-        <title>Bits-0f-C0de 🚀</title>
-        <meta name="title" content="Bits-0f-C0de 🚀" />
+        <title>Daily Tech 🚀</title>
+        <meta name="title" content="Daily Tech 🚀" />
         <meta
           name="description"
           content="Tech blogs and articles on various topics related to Software Development"
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://blogs.soumya-jit.tech/" />
-        <meta property="og:title" content="Bits-0f-C0de 🚀" />
+        <meta property="og:url" content="https://dailytech.surge.sh/" />
+        <meta property="og:title" content="Daily Tech 🚀" />
         <meta
           property="og:description"
           content="Tech blogs and articles on various topics related to Software Development"
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
+          // content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://blogs.soumya-jit.tech/" />
-        <meta property="twitter:title" content="Bits-0f-C0de 🚀" />
+        <meta property="twitter:url" content="https://dailytech.surge.sh/" />
+        <meta property="twitter:title" content="Daily Tech 🚀" />
         <meta
           property="twitter:description"
           content="Tech blogs and articles on various topics related to Software Development"
         />
         <meta
           property="twitter:image"
-          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
+          // content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
         />
       </Head>
 
